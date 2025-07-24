@@ -1,0 +1,8 @@
+THERE WERE MANY MORE PATTERNS IN c++ VIDEO
+AND SOME OF THE PATTERNS WERE SAME AS C PROGRAMMING
+FOLDER
+LIST
+1.Star plus
+2.Hollow star rectangel
+3.star cross
+4.Star diamond

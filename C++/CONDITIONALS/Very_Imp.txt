@@ -1,0 +1,13 @@
++,-,/,*
+Inn operators me hum left to right chalte hai
+= = 
+is oprator me hum right to left chalte hai
+>,< ki aukat = oprator se zyada hoti hai
+for example: 
+main(){
+    int x=3,y,z;
+    y=x=10;
+    z=x<10;
+    cout<<x<<" "<<y<<" "<<z;
+}
+Raghav sir C++ one shot;
